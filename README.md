@@ -43,6 +43,8 @@ Include both staging table and dimension model table.
     - artists
     - time
 
+![](./img/Sparkify_DWH.png)
+
 ## Build ETL Pipeline
 Execute the script: _etl.py_: 
 ```
